@@ -21,6 +21,7 @@
 
 
 TEAM_NAME="jdc"
+RENJI
 TARGET=jflte
 VARIANT=userdebug
 AOSP_VER=7.0
